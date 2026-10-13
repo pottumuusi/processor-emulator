@@ -1,3 +1,5 @@
 *.swp
 *.swo
 processor-emulator
+tags
+processor-emulator.vim
