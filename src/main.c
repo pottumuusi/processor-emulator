@@ -48,7 +48,7 @@ struct cpu_register {
 };
 
 struct main_memory {
-	uint8_t bank[MAIN_MEMORY_BANK_AMOUNT]; 
+	uint8_t bank[MAIN_MEMORY_BANK_AMOUNT];
 };
 
 // TODO
